@@ -1,4 +1,4 @@
-# The Power Drain Effect How-User Behavior Impacts Smartphones
+# The Power Drain Effect How User Behavior Impacts Smartphones
 
 <div align = center>
   <p>
