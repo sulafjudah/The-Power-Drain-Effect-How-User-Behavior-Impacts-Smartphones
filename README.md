@@ -12,3 +12,9 @@
 
   </p>
 </div>
+
+## Interactive Power BI Dashboard:
+
+Click the image below to open the interactive dashboard.
+
+[![Dashboard Preview](preview.png)](https://sulafjudah.github.io/The-Power-Drain-Effect-How-User-Behavior-Impacts-Smartphones/)
